@@ -6,18 +6,18 @@
       "name": "directm",
       "title": "DirectM",
       "styling": {
-        "primaryColor": "#5aac98",
+        "primaryColor": "#dbae54",
         "secondaryColor": "#A25DAE",
         "successColor": "#1E7C3A",
         "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
-        "dangerColor": "#FF9685",
+        "dangerColor": "#bb412e",
         "titleFont": "Oxygen",
         "subtitleFont": "Libre Franklin",
         "textFont": "Libre Franklin",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.12.1",
@@ -45,7 +45,14 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "font-size": "60px"
+              "font-size": "48px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".heading-text": {
+              "font-size": "36px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "subtitle1": "Awesome",
@@ -77,8 +84,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Comparatif des Machines à sous",
-          "text": "Sur VegasFiesta &nbsp;jouez rusé !",
+          "title": "Comparatif des Machines à Sous",
+          "text": "Sur VegasFiesta &nbsp;Jouez Rusé !",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\">Jouez maintenant</a>",
           "media1": {
             "iconFont": {
