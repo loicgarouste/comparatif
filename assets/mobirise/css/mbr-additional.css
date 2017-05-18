@@ -1,9 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
-
-
 
 
 
@@ -80,7 +76,7 @@ h6,
   font-style: normal;
 }
 .bg-primary {
-  background-color: #dbae54 !important;
+  background-color: #d85128 !important;
 }
 .bg-success {
   background-color: #1e7c3a !important;
@@ -95,8 +91,8 @@ h6,
   background-color: #bb412e !important;
 }
 .btn-primary {
-  background-color: #dbae54;
-  border-color: #dbae54;
+  background-color: #d85128;
+  border-color: #d85128;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -105,14 +101,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #bb8a27;
-  border-color: #bb8a27;
+  background-color: #98391c;
+  border-color: #98391c;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #bb8a27 !important;
-  border-color: #bb8a27 !important;
+  background-color: #98391c !important;
+  border-color: #98391c !important;
 }
 .btn-secondary {
   background-color: #a25dae;
@@ -216,8 +212,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #a67a23;
-  color: #a67a23;
+  border-color: #823118;
+  color: #823118;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -225,14 +221,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #dbae54;
-  border-color: #dbae54;
+  background-color: #d85128;
+  border-color: #d85128;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #dbae54 !important;
-  border-color: #dbae54 !important;
+  background-color: #d85128 !important;
+  border-color: #d85128 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -335,7 +331,7 @@ h6,
   border-color: #bb412e !important;
 }
 .text-primary {
-  color: #dbae54 !important;
+  color: #d85128 !important;
 }
 .text-success {
   color: #1e7c3a !important;
@@ -362,30 +358,30 @@ h6,
   background-color: #bb412e;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #dbae54;
+  color: #d85128;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #dbae54;
+  color: #d85128;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #dbae54;
+  background: #d85128;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #dbae54;
+  color: #d85128;
 }
 .lead a,
 .lead a:hover {
-  color: #dbae54;
+  color: #d85128;
 }
 .lead blockquote {
-  border-color: #dbae54;
+  border-color: #d85128;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #fefefd;
+  color: #f7ddd5;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -419,18 +415,18 @@ a:hover {
   color: #ffffff;
 }
 .header1 .mbr-arrow a:hover i {
-  color: #dbae54;
+  color: #d85128;
 }
 /*header2*/
 .header1.header2 .mbr-arrow a i {
   color: #222222;
 }
 .header1.header2 .mbr-arrow a:hover i {
-  color: #dbae54;
+  color: #d85128;
 }
 /*features1*/
 .features1 .carousel-indicators li.active {
-  border: 5px solid #dbae54;
+  border: 5px solid #d85128;
 }
 /*features12*/
 .features12 .card .mbr-iconfont,
@@ -440,52 +436,52 @@ a:hover {
 }
 /*msg-box1*/
 .msg-box1 ul li:before {
-  background-color: #dbae54;
+  background-color: #d85128;
 }
 .msg-box1 .round-block {
-  background: linear-gradient(45deg, #d5a037, #dbae54, #e4c27e);
+  background: linear-gradient(45deg, #ba4522, #d85128, #e07453);
 }
 /*tabs1*/
 .tabs1 ul li a.active {
-  border-bottom-color: #dbae54 !important;
+  border-bottom-color: #d85128 !important;
 }
 .tabs1 .tab-list-wraper ul li:before {
-  background-color: #dbae54;
+  background-color: #d85128;
 }
 .tabs1 .colorBG {
-  background-color: #dbae54;
+  background-color: #d85128;
 }
 /*content*/
 .content2 blockquote {
-  border-left: 3px solid #dbae54;
+  border-left: 3px solid #d85128;
 }
 .content4 p {
-  border-bottom: 3px solid #dbae54;
-  border-top: 3px solid #dbae54;
+  border-bottom: 3px solid #d85128;
+  border-top: 3px solid #d85128;
 }
 /*follow1*/
 .follow1 .btn-social {
-  color: #dbae54;
-  border-color: #dbae54;
+  color: #d85128;
+  border-color: #d85128;
 }
 .follow1 .btn-social:hover {
-  color: #e4c27e;
-  background: rgba(219, 174, 84, 0.1);
-  border-color: #e4c27e;
+  color: #e07453;
+  background: rgba(216, 81, 40, 0.1);
+  border-color: #e07453;
 }
 /*share1*/
 .share1 .btn-social {
-  color: #dbae54;
-  border-color: #dbae54;
+  color: #d85128;
+  border-color: #d85128;
 }
 .share1 .btn-social:hover {
-  color: #e4c27e;
-  background: rgba(219, 174, 84, 0.1);
-  border-color: #e4c27e;
+  color: #e07453;
+  background: rgba(216, 81, 40, 0.1);
+  border-color: #e07453;
 }
 /* Slider */
 .mbr-slider .carousel-indicators .active {
-  background-color: #dbae54;
+  background-color: #d85128;
 }
 /* Gallery */
 .mbr-gallery-filter ul li {
@@ -495,7 +491,7 @@ a:hover {
   color: #74a3c7;
 }
 .btn-empty:focus {
-  color: #dbae54;
+  color: #d85128;
 }
 /* captions */
 .mbr-figure-caption {
@@ -508,39 +504,38 @@ a:hover {
 }
 /*tabs3*/
 .tabs3 .nav-tabs .nav-link.active {
-  border: 5px solid #dbae54;
+  border: 5px solid #d85128;
 }
 /* testimonials1*/
 .testimonials1 .carousel-indicators li.active {
-  border: 5px solid #dbae54;
+  border: 5px solid #d85128;
 }
 .hamburger-icon {
-  background-color: #dbae54 !important;
+  background-color: #d85128 !important;
 }
 .hamburger-icon:before {
-  background-color: #dbae54;
+  background-color: #d85128;
 }
 .hamburger-icon:after {
-  background-color: #dbae54;
+  background-color: #d85128;
 }
-#header2-1 .mbr-section-title,
-#header2-1 .mbr-section-subtitle {
-  color: #ffffff;
+#content7-4 .mbr-section-title,
+#content7-4 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
 }
-#header2-1 .mbr-iconfont {
+#content7-4 .mbr-iconfont {
   color: undefined;
   border-color: undefined;
 }
-#header2-1 .mbr-table-cell {
+#content7-4 .mbr-table-cell {
   vertical-align: middle;
 }
-#header2-1 .heading-title {
-  font-size: 48px;
-  font-family: 'Ubuntu', sans-serif;
+#content7-4 .heading-text {
+  color: #dbae54;
 }
-#header2-1 .heading-text {
-  font-size: 36px;
-  font-family: 'Raleway', sans-serif;
+#content7-4 .heading-title {
+  color: #ff4811;
 }
 #custom-html-0 {
   /* Type valid CSS here */

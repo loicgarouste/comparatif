@@ -6,7 +6,7 @@
       "name": "directm",
       "title": "DirectM",
       "styling": {
-        "primaryColor": "#dbae54",
+        "primaryColor": "#d85128",
         "secondaryColor": "#A25DAE",
         "successColor": "#1E7C3A",
         "infoColor": "#74a3c7",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 2,
+    "uniqCompNum": 5,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -38,107 +38,48 @@
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
-              "color": "#ffffff"
+              "margin-bottom": "1rem",
+              "color": "#fff"
             },
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
             },
-            ".heading-title": {
-              "font-size": "48px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
             ".heading-text": {
-              "font-size": "36px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "color": "#dbae54"
+            },
+            ".heading-title": {
+              "color": "#ff4811"
             }
           },
-          "subtitle1": "Awesome",
-          "subtitle2": "Awesome",
-          "subtitle3": "Awesome",
-          "subtitle4": "Awesome",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-1",
+          "_name": "content7",
+          "_anchor": "content7-4",
           "_params": {
-            "containerColor1": "#631c70",
-            "containerColor2": "#3ca8c7",
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "parallax": false,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "bgColor": "#2d2d2d",
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#616161",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#2d2d2d",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "Comparatif des Machines à Sous",
-          "text": "Sur VegasFiesta &nbsp;Jouez Rusé !",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\">Jouez maintenant</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "mobirise",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title1": "What is Mobirise",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "What is Mobirise",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "What is Mobirise",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "title": "Comparatif des Machines&nbsp;",
+          "text": "VegasFiesta partage avec vous les &nbsp;statistiques des machines à sous les plus performantes, de manière à optimiser vos chances de gains. Consultez le rapport ci dessous pour en connaître d'avantage sur les coulisses du casino en ligne préféré des internautes de l'hexagone",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Jouez Maintenant</a>"
         },
         {
           "_customTemplate": true,
